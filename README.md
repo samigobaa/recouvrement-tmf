@@ -1,2 +1,3 @@
-# recouvrement-tmf
-RECOUVREMENT TMF : gestion des créances pour PC, serveur et Android
+# RECOUVREMENT TMF
+
+Téléchargement : https://samigobaa.github.io/recouvrement-tmf/
